@@ -6,4 +6,4 @@ The building blocks of Go.
 
 ### Working With Primitive Data Types
 
-- [Pointers](./notes/Pointers.md)
+- [Pointers](./notes/POINTERS.md)
